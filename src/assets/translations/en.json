@@ -1,0 +1,37 @@
+{
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Professional Photographer",
+    "subtitle": "Capturing moments, creating memories",
+    "aboutTitle": "About Me",
+    "aboutText": "I am a passionate photographer with over 10 years of experience capturing special moments. My focus is on naturalness and authentic emotion, creating images that tell unique stories. Specialized in portrait, wedding and landscape photography.",
+    "featuredPhotos": "Featured Photos"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "categories": {
+      "all": "All",
+      "portraits": "Portraits",
+      "weddings": "Weddings",
+      "landscapes": "Landscapes",
+      "events": "Events"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Ready to capture your next special moment?",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully! I'll contact you soon.",
+    "error": "There was an error sending the message. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
